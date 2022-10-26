@@ -5,4 +5,4 @@ tugas
 
 ![](scrsr/Screenshot%20(6).png)
 
-!{}(scrsr/Screenshot%20(7).png)
+![](scrsr/Screenshot%20(7).png)
